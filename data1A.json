@@ -1,7 +1,7 @@
 {
-  "testName": {
-    "title": "test",
-    "text": "this is a test",
+  "Welcome message": {
+    "title": "More about us",
+    "text": "Have a question? Here you can see more about us.",
     "html_structure": "to implement"
   }
 }
