@@ -1,9 +1,8 @@
-[
-  {
-    "name": "testName",
+{
+  "testName": {
     "title": "test",
     "text": "this is a test",
     "html_structure": "to implement"
   }
-]
+}
 
